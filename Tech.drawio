@@ -730,7 +730,7 @@
             <mxPoint x="2500" y="-58.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VeQkJ8AZZojX9GxrKM52-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Télécommunications" vertex="1">
           <mxGeometry height="60" width="120" x="2499" y="-88" as="geometry" />
         </mxCell>
         <mxCell id="VeQkJ8AZZojX9GxrKM52-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lasers" vertex="1">
@@ -739,8 +739,65 @@
         <mxCell id="VeQkJ8AZZojX9GxrKM52-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Composites" vertex="1">
           <mxGeometry height="60" width="120" x="2499" y="285" as="geometry" />
         </mxCell>
-        <mxCell id="VeQkJ8AZZojX9GxrKM52-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Techno furtive" vertex="1">
           <mxGeometry height="60" width="120" x="2499" y="362" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Systèmes guidage" vertex="1">
+          <mxGeometry height="60" width="120" x="2499" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Satellites" vertex="1">
+          <mxGeometry height="60" width="120" x="2499" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-68" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-40" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-67" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2333" y="106" as="sourcePoint" />
+            <mxPoint x="2383" y="56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-69" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-39" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-67" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2333" y="106" as="sourcePoint" />
+            <mxPoint x="2383" y="56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-70" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-42" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-66" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2333" y="172" as="sourcePoint" />
+            <mxPoint x="2383" y="122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-71" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-40" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-66" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2333" y="172" as="sourcePoint" />
+            <mxPoint x="2383" y="122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-72" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-53" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-63" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2429" y="295" as="sourcePoint" />
+            <mxPoint x="2479" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-73" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-52" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-65" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2243" y="422" as="sourcePoint" />
+            <mxPoint x="2293" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-74" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-52" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-64" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2403" y="350" as="sourcePoint" />
+            <mxPoint x="2453" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-75" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2433" y="586" as="sourcePoint" />
+            <mxPoint x="2435" y="-162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-76" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Période atomique" vertex="1">
+          <mxGeometry height="80" width="376" x="1998" y="-242" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
