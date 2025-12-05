@@ -865,6 +865,45 @@
         <mxCell id="VeQkJ8AZZojX9GxrKM52-90" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Période informatique" vertex="1">
           <mxGeometry height="80" width="376" x="2499" y="-242" as="geometry" />
         </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cybernétique" vertex="1">
+          <mxGeometry height="60" width="120" x="3249" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="?" vertex="1">
+          <mxGeometry height="60" width="120" x="3249" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="?" vertex="1">
+          <mxGeometry height="60" width="120" x="3249" y="-88" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mission hors monde" vertex="1">
+          <mxGeometry height="60" width="120" x="3499" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-98" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3369" y="89.5" as="sourcePoint" />
+            <mxPoint x="3499" y="89.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-99" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-83" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-95" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3109" y="131" as="sourcePoint" />
+            <mxPoint x="3159" y="81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-100" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-85" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-94" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3109" y="131" as="sourcePoint" />
+            <mxPoint x="3159" y="81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-101" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-83" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-96" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3109" y="131" as="sourcePoint" />
+            <mxPoint x="3159" y="81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-102" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Période future" vertex="1">
+          <mxGeometry height="80" width="376" x="2999" y="-242" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
