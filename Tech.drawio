@@ -799,6 +799,72 @@
         <mxCell id="VeQkJ8AZZojX9GxrKM52-76" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Période atomique" vertex="1">
           <mxGeometry height="80" width="376" x="1998" y="-242" as="geometry" />
         </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fusion nucléaire" vertex="1">
+          <mxGeometry height="60" width="120" x="2749" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nanotechnologie" vertex="1">
+          <mxGeometry height="60" width="120" x="2749" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Robotique" vertex="1">
+          <mxGeometry height="60" width="120" x="2749" y="-14" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-80" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-54" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-79" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="2529" y="10" />
+            </Array>
+            <mxPoint x="2625" y="39" as="sourcePoint" />
+            <mxPoint x="2675" y="-11" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-81" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-63" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-77" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2645" y="230" as="sourcePoint" />
+            <mxPoint x="2675" y="191" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-82" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-64" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VeQkJ8AZZojX9GxrKM52-78" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2625" y="311" as="sourcePoint" />
+            <mxPoint x="2675" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IA avancée" vertex="1">
+          <mxGeometry height="60" width="120" x="2999" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cell énergie avancée" vertex="1">
+          <mxGeometry height="60" width="120" x="2999" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Systèmes prédictifs" vertex="1">
+          <mxGeometry height="60" width="120" x="2999" y="-14" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-86" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-79" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-84" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2685" y="191" as="sourcePoint" />
+            <mxPoint x="2735" y="141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-87" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-77" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-85" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2685" y="191" as="sourcePoint" />
+            <mxPoint x="2735" y="141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-88" edge="1" parent="1" source="VeQkJ8AZZojX9GxrKM52-78" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VeQkJ8AZZojX9GxrKM52-83" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2903" y="298" as="sourcePoint" />
+            <mxPoint x="2953" y="248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-89" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2933" y="586" as="sourcePoint" />
+            <mxPoint x="2935" y="-162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-90" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Période informatique" vertex="1">
+          <mxGeometry height="80" width="376" x="2499" y="-242" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
