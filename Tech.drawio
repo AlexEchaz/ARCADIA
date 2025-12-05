@@ -724,6 +724,24 @@
             <mxPoint x="2192" y="151" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-61" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2369" y="-58.5" as="sourcePoint" />
+            <mxPoint x="2500" y="-58.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="2499" y="-88" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lasers" vertex="1">
+          <mxGeometry height="60" width="120" x="2499" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Composites" vertex="1">
+          <mxGeometry height="60" width="120" x="2499" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="VeQkJ8AZZojX9GxrKM52-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="2499" y="362" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
